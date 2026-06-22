@@ -1,0 +1,7 @@
+Running: xsim.dir/avg_pooling_tb_behav/xsimk.exe -simmode gui -wdb avg_pooling_tb_behav.wdb -simrunnum 0 -socket 64803
+Design successfully loaded
+Design Loading Memory Usage: 10568 KB (Peak: 10568 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 11456 KB (Peak: 11456 KB)
+Simulation CPU Usage: 93 ms

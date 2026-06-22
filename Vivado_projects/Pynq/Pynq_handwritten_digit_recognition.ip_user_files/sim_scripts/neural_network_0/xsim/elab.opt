@@ -1,0 +1,1 @@
+--incr --debug typical --relax --mt 2  -L xil_defaultlib -L uvm -L xilinx_vip -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot neural_network_0 xil_defaultlib.neural_network_0 xil_defaultlib.glbl -log elaborate.log

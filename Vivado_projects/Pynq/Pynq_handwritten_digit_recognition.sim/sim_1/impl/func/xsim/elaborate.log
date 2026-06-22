@@ -1,0 +1,24 @@
+Vivado Simulator v2025.1.0
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: G:/xillinx/2025.1/Vivado/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L uvm -L xilinx_vip -L unisims_ver -L secureip --snapshot NN_tb_func_impl xil_defaultlib.NN_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.avg_pooling
+Compiling module xil_defaultlib.neuron
+Compiling module xil_defaultlib.dense_layer_default
+Compiling module xil_defaultlib.relu
+Compiling module xil_defaultlib.dense_layer1_default
+Compiling module xil_defaultlib.neuron(IN_SIZE=32)
+Compiling module xil_defaultlib.dense_layer(NEURON_NB=10,IN_SIZE...
+Compiling module xil_defaultlib.dense_layer2_default
+Compiling module xil_defaultlib.select_max
+Compiling module xil_defaultlib.neural_network
+Compiling module xil_defaultlib.NN_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot NN_tb_func_impl
